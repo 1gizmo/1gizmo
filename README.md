@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&text=1gizmo%Welcome to my github&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=slice&text=1gizmo%welcome%to%m%github&fontSize=50)
 
 
 

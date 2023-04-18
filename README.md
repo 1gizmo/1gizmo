@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=slice&text=1gizmo%fontSize=60&text=Welcome to my github)
 
 
 

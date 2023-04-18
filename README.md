@@ -1,5 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&text=1gizmo&fontSize=50&rotate=30)
+&text=welcome to my git hud&fontSize=20&rotate=30)
 
 
 

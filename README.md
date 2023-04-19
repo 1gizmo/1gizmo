@@ -33,4 +33,6 @@
 <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> -->
 </br>
 
- <img src="C:\Users\user\Desktop">
+<!-- <img src="KakaoTalk_20230419_124630435_01.gif"> -->
+ <br>
+ <img src="KakaoTalk_20230419_124702286.gif">

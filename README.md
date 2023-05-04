@@ -6,6 +6,7 @@
 
 <div align = "center">
 <h3 style= "font-size = 70px">🎈Donggwan🎈</h3>
+   <img src="핑구움짤.gif">
 <br/>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1gizmo&show_icons=true&theme=radical)
